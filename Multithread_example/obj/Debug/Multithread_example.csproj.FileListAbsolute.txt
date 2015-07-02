@@ -1,0 +1,6 @@
+c:\users\alfonso\documents\visual studio 2013\Projects\Multithread_example\Multithread_example\bin\Debug\Multithread_example.exe.config
+c:\users\alfonso\documents\visual studio 2013\Projects\Multithread_example\Multithread_example\bin\Debug\Multithread_example.exe
+c:\users\alfonso\documents\visual studio 2013\Projects\Multithread_example\Multithread_example\bin\Debug\Multithread_example.pdb
+c:\users\alfonso\documents\visual studio 2013\Projects\Multithread_example\Multithread_example\obj\Debug\Multithread_example.csprojResolveAssemblyReference.cache
+c:\users\alfonso\documents\visual studio 2013\Projects\Multithread_example\Multithread_example\obj\Debug\Multithread_example.exe
+c:\users\alfonso\documents\visual studio 2013\Projects\Multithread_example\Multithread_example\obj\Debug\Multithread_example.pdb
